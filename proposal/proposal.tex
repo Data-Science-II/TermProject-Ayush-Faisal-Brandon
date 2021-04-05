@@ -9,12 +9,12 @@
 
 \geometry{letterpaper, total={7in, 10in} }
 
-\title{CSCI 4360 Data Science II Course Project Proposal\\
+\title{CSCI 4360 Data Science II Term Project Proposal\\
 		Project Team I}
 
 \author{Ayush Kumar, Faisal Hossain, Brandon Amirouche}
 
-\date{November 06, 2020}
+\date{April 04, 2021}
 
 \begin{document}
 	
@@ -40,5 +40,17 @@
 	We will also be using time series models, and panel data and comparing and contrasting with traditional models. The test dataset will be the HMDA data from 2018 as it is the latest dataset and provides a testing ground for a model. We also plan on doing rolling modeling to show which data can be used to make 
 	accurate predictions over time. The HMDA datasets have over 10 million observations each and pose one of the largest data challenges that any of us have previously faced. 
 	
-	We will also be using batch processing, and learning techniques associated with big data because we simply cannot hold all the data in memory during the training sequence. 
+	We will also be using batch processing, and learning techniques associated with big data because we simply cannot hold all the data in memory during the training sequence. We cannot hold all the data in memory simply because we are using 4 HMDA Datasets each of which when unzipped is 9-10 GB in size. This would total to around 40GB of RAM used when using Pandas or Base R statistical tools, and none of us have this much memory. To get around this we will be using a variety of tools. 
+	
+	We will be using the following tools for our project: 
+	
+	\begin{enumerate}
+		\item SQLLite3 - for holding all the HMDA Data in a convenient database that can be used
+		to stream data given our memory restrictions 
+		\item R - for basic regression analysis and variable selection 
+		\item Keras - for neural network modeling 
+		\item Apache Spark - for making the most efficient use of our systems \& practice for the real world 		
+	\end{enumerate}
+
+	
 \end{document}
