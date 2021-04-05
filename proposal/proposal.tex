@@ -1,0 +1,44 @@
+\documentclass{article}
+
+\usepackage{geometry}
+\usepackage{booktabs}
+\usepackage{graphicx}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{hyperref}
+
+\geometry{letterpaper, total={7in, 10in} }
+
+\title{CSCI 4360 Data Science II Course Project Proposal\\
+		Project Team I}
+
+\author{Ayush Kumar, Faisal Hossain, Brandon Amirouche}
+
+\date{November 06, 2020}
+
+\begin{document}
+	
+	\maketitle
+	
+	For our term project we would like to focus on using housing data to perform predictive 
+	analysis on future housing prices. We have two main data sources for this: 
+	
+	\begin{enumerate}
+		\item  \href{https://www.quandl.com/databases/ZILLOW/data}{Quandl Data from Zillow}
+		\item \href{https://www.consumerfinance.gov/data-research/hmda/historic-data/?geo=nationwide&records=all-records&field_descriptions=labels}{USA Home Mortgage Disclosure Act Data}
+	\end{enumerate}
+	
+	We plan on using this and more to predict housing prices in the United States using the following predictive models: 
+	
+	\begin{enumerate}
+		\item Traditional Regression Modeling 
+		\item Transformed Regression Modeling 
+		\item Feed Forward Neural Networks 
+		\item Time Series Modeling
+	\end{enumerate}
+
+	We will also be using time series models, and panel data and comparing and contrasting with traditional models. The test dataset will be the HMDA data from 2018 as it is the latest dataset and provides a testing ground for a model. We also plan on doing rolling modeling to show which data can be used to make 
+	accurate predictions over time. The HMDA datasets have over 10 million observations each and pose one of the largest data challenges that any of us have previously faced. 
+	
+	We will also be using batch processing, and learning techniques associated with big data because we simply cannot hold all the data in memory during the training sequence. 
+\end{document}
