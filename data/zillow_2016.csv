@@ -1,0 +1,496 @@
+indicator_id,region_id,date,value,indicator,category,region_type,region
+ZSFH,99999,2016-11-30,286670.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98847; WA; Wenatchee; Chelan County; Peshastin
+ZSFH,99999,2016-10-31,285541.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98847; WA; Wenatchee; Chelan County; Peshastin
+ZSFH,99999,2016-09-30,284428.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98847; WA; Wenatchee; Chelan County; Peshastin
+ZSFH,99999,2016-08-31,282233.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98847; WA; Wenatchee; Chelan County; Peshastin
+ZSFH,99999,2016-07-31,280099.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98847; WA; Wenatchee; Chelan County; Peshastin
+ZSFH,99999,2016-06-30,277782.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98847; WA; Wenatchee; Chelan County; Peshastin
+ZSFH,99999,2016-05-31,274995.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98847; WA; Wenatchee; Chelan County; Peshastin
+ZSFH,99999,2016-04-30,272832.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98847; WA; Wenatchee; Chelan County; Peshastin
+ZSFH,99999,2016-03-31,271977.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98847; WA; Wenatchee; Chelan County; Peshastin
+ZSFH,99999,2016-02-29,270498.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98847; WA; Wenatchee; Chelan County; Peshastin
+ZSFH,99999,2016-01-31,268094.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98847; WA; Wenatchee; Chelan County; Peshastin
+ZSFH,99998,2016-11-30,257049.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98846; WA; Okanogan County; Pateros
+ZSFH,99998,2016-10-31,255896.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98846; WA; Okanogan County; Pateros
+ZSFH,99998,2016-09-30,254011.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98846; WA; Okanogan County; Pateros
+ZSFH,99998,2016-08-31,252341.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98846; WA; Okanogan County; Pateros
+ZSFH,99998,2016-07-31,250402.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98846; WA; Okanogan County; Pateros
+ZSFH,99998,2016-06-30,247994.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98846; WA; Okanogan County; Pateros
+ZSFH,99998,2016-05-31,245299.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98846; WA; Okanogan County; Pateros
+ZSFH,99998,2016-04-30,242886.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98846; WA; Okanogan County; Pateros
+ZSFH,99998,2016-03-31,240954.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98846; WA; Okanogan County; Pateros
+ZSFH,99998,2016-02-29,238789.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98846; WA; Okanogan County; Pateros
+ZSFH,99998,2016-01-31,236299.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98846; WA; Okanogan County; Pateros
+ZSFH,99997,2016-11-30,226434.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98845; WA; Wenatchee; Douglas County; Palisades
+ZSFH,99997,2016-10-31,224685.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98845; WA; Wenatchee; Douglas County; Palisades
+ZSFH,99997,2016-09-30,222564.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98845; WA; Wenatchee; Douglas County; Palisades
+ZSFH,99997,2016-08-31,220526.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98845; WA; Wenatchee; Douglas County; Palisades
+ZSFH,99997,2016-07-31,217601.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98845; WA; Wenatchee; Douglas County; Palisades
+ZSFH,99997,2016-06-30,215252.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98845; WA; Wenatchee; Douglas County; Palisades
+ZSFH,99997,2016-05-31,213891.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98845; WA; Wenatchee; Douglas County; Palisades
+ZSFH,99997,2016-04-30,212577.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98845; WA; Wenatchee; Douglas County; Palisades
+ZSFH,99997,2016-03-31,212775.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98845; WA; Wenatchee; Douglas County; Palisades
+ZSFH,99997,2016-02-29,211513.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98845; WA; Wenatchee; Douglas County; Palisades
+ZSFH,99997,2016-01-31,210349.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98845; WA; Wenatchee; Douglas County; Palisades
+ZSFH,99996,2016-11-30,173231.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98844; WA; Okanogan County; Oroville
+ZSFH,99996,2016-10-31,171645.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98844; WA; Okanogan County; Oroville
+ZSFH,99996,2016-09-30,170058.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98844; WA; Okanogan County; Oroville
+ZSFH,99996,2016-08-31,168631.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98844; WA; Okanogan County; Oroville
+ZSFH,99996,2016-07-31,167356.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98844; WA; Okanogan County; Oroville
+ZSFH,99996,2016-06-30,165950.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98844; WA; Okanogan County; Oroville
+ZSFH,99996,2016-05-31,164630.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98844; WA; Okanogan County; Oroville
+ZSFH,99996,2016-04-30,163503.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98844; WA; Okanogan County; Oroville
+ZSFH,99996,2016-03-31,162691.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98844; WA; Okanogan County; Oroville
+ZSFH,99996,2016-02-29,162291.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98844; WA; Okanogan County; Oroville
+ZSFH,99996,2016-01-31,161401.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98844; WA; Okanogan County; Oroville
+ZSFH,99995,2016-11-30,383120.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98843; WA; Wenatchee; Douglas County; Orondo
+ZSFH,99995,2016-10-31,379851.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98843; WA; Wenatchee; Douglas County; Orondo
+ZSFH,99995,2016-09-30,376754.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98843; WA; Wenatchee; Douglas County; Orondo
+ZSFH,99995,2016-08-31,374055.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98843; WA; Wenatchee; Douglas County; Orondo
+ZSFH,99995,2016-07-31,371549.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98843; WA; Wenatchee; Douglas County; Orondo
+ZSFH,99995,2016-06-30,368696.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98843; WA; Wenatchee; Douglas County; Orondo
+ZSFH,99995,2016-05-31,365359.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98843; WA; Wenatchee; Douglas County; Orondo
+ZSFH,99995,2016-04-30,363476.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98843; WA; Wenatchee; Douglas County; Orondo
+ZSFH,99995,2016-03-31,362106.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98843; WA; Wenatchee; Douglas County; Orondo
+ZSFH,99995,2016-02-29,360774.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98843; WA; Wenatchee; Douglas County; Orondo
+ZSFH,99995,2016-01-31,357782.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98843; WA; Wenatchee; Douglas County; Orondo
+ZSFH,99994,2016-11-30,163898.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98841; WA; Okanogan County; Omak
+ZSFH,99994,2016-10-31,162415.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98841; WA; Okanogan County; Omak
+ZSFH,99994,2016-09-30,160889.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98841; WA; Okanogan County; Omak
+ZSFH,99994,2016-08-31,159259.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98841; WA; Okanogan County; Omak
+ZSFH,99994,2016-07-31,157715.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98841; WA; Okanogan County; Omak
+ZSFH,99994,2016-06-30,156235.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98841; WA; Okanogan County; Omak
+ZSFH,99994,2016-05-31,154762.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98841; WA; Okanogan County; Omak
+ZSFH,99994,2016-04-30,153361.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98841; WA; Okanogan County; Omak
+ZSFH,99994,2016-03-31,152036.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98841; WA; Okanogan County; Omak
+ZSFH,99994,2016-02-29,150855.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98841; WA; Okanogan County; Omak
+ZSFH,99994,2016-01-31,149510.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98841; WA; Okanogan County; Omak
+ZSFH,99993,2016-11-30,161238.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98840; WA; Okanogan County; Okanogan
+ZSFH,99993,2016-10-31,159803.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98840; WA; Okanogan County; Okanogan
+ZSFH,99993,2016-09-30,158448.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98840; WA; Okanogan County; Okanogan
+ZSFH,99993,2016-08-31,156921.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98840; WA; Okanogan County; Okanogan
+ZSFH,99993,2016-07-31,155370.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98840; WA; Okanogan County; Okanogan
+ZSFH,99993,2016-06-30,153550.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98840; WA; Okanogan County; Okanogan
+ZSFH,99993,2016-05-31,151835.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98840; WA; Okanogan County; Okanogan
+ZSFH,99993,2016-04-30,150252.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98840; WA; Okanogan County; Okanogan
+ZSFH,99993,2016-03-31,148902.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98840; WA; Okanogan County; Okanogan
+ZSFH,99993,2016-02-29,147645.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98840; WA; Okanogan County; Okanogan
+ZSFH,99993,2016-01-31,146280.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98840; WA; Okanogan County; Okanogan
+ZSFH,99992,2016-11-30,182886.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98837; WA; Moses Lake; Grant County
+ZSFH,99992,2016-10-31,181830.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98837; WA; Moses Lake; Grant County
+ZSFH,99992,2016-09-30,180747.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98837; WA; Moses Lake; Grant County
+ZSFH,99992,2016-08-31,179657.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98837; WA; Moses Lake; Grant County
+ZSFH,99992,2016-07-31,178832.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98837; WA; Moses Lake; Grant County
+ZSFH,99992,2016-06-30,178107.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98837; WA; Moses Lake; Grant County
+ZSFH,99992,2016-05-31,177622.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98837; WA; Moses Lake; Grant County
+ZSFH,99992,2016-04-30,177149.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98837; WA; Moses Lake; Grant County
+ZSFH,99992,2016-03-31,176498.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98837; WA; Moses Lake; Grant County
+ZSFH,99992,2016-02-29,175534.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98837; WA; Moses Lake; Grant County
+ZSFH,99992,2016-01-31,174418.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98837; WA; Moses Lake; Grant County
+ZSFH,99991,2016-11-30,278633.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98836; WA; Wenatchee; Chelan County
+ZSFH,99991,2016-10-31,278857.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98836; WA; Wenatchee; Chelan County
+ZSFH,99991,2016-09-30,278030.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98836; WA; Wenatchee; Chelan County
+ZSFH,99991,2016-08-31,276195.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98836; WA; Wenatchee; Chelan County
+ZSFH,99991,2016-07-31,273765.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98836; WA; Wenatchee; Chelan County
+ZSFH,99991,2016-06-30,271759.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98836; WA; Wenatchee; Chelan County
+ZSFH,99991,2016-05-31,269776.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98836; WA; Wenatchee; Chelan County
+ZSFH,99991,2016-04-30,267871.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98836; WA; Wenatchee; Chelan County
+ZSFH,99991,2016-03-31,270047.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98836; WA; Wenatchee; Chelan County
+ZSFH,99991,2016-02-29,271094.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98836; WA; Wenatchee; Chelan County
+ZSFH,99991,2016-01-31,271828.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98836; WA; Wenatchee; Chelan County
+ZSFH,99990,2016-11-30,206675.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98834; WA; Okanogan County; Methow
+ZSFH,99990,2016-10-31,206570.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98834; WA; Okanogan County; Methow
+ZSFH,99990,2016-09-30,204827.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98834; WA; Okanogan County; Methow
+ZSFH,99990,2016-08-31,202713.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98834; WA; Okanogan County; Methow
+ZSFH,99990,2016-07-31,199278.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98834; WA; Okanogan County; Methow
+ZSFH,99990,2016-06-30,196484.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98834; WA; Okanogan County; Methow
+ZSFH,99990,2016-05-31,194078.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98834; WA; Okanogan County; Methow
+ZSFH,99990,2016-04-30,192333.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98834; WA; Okanogan County; Methow
+ZSFH,99990,2016-03-31,192438.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98834; WA; Okanogan County; Methow
+ZSFH,99990,2016-02-29,193405.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98834; WA; Okanogan County; Methow
+ZSFH,99990,2016-01-31,193869.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98834; WA; Okanogan County; Methow
+ZSFH,9999,2016-11-30,168096.0,ZHVI Single-Family Homes Time Series ($),Home values,city,Carrsville; VA; Virginia Beach-Norfolk-Newport News; Isle of Wight County
+ZSFH,9999,2016-10-31,169723.0,ZHVI Single-Family Homes Time Series ($),Home values,city,Carrsville; VA; Virginia Beach-Norfolk-Newport News; Isle of Wight County
+ZSFH,9999,2016-09-30,170743.0,ZHVI Single-Family Homes Time Series ($),Home values,city,Carrsville; VA; Virginia Beach-Norfolk-Newport News; Isle of Wight County
+ZSFH,9999,2016-08-31,171344.0,ZHVI Single-Family Homes Time Series ($),Home values,city,Carrsville; VA; Virginia Beach-Norfolk-Newport News; Isle of Wight County
+ZSFH,9999,2016-07-31,169945.0,ZHVI Single-Family Homes Time Series ($),Home values,city,Carrsville; VA; Virginia Beach-Norfolk-Newport News; Isle of Wight County
+ZSFH,9999,2016-06-30,168470.0,ZHVI Single-Family Homes Time Series ($),Home values,city,Carrsville; VA; Virginia Beach-Norfolk-Newport News; Isle of Wight County
+ZSFH,9999,2016-05-31,167719.0,ZHVI Single-Family Homes Time Series ($),Home values,city,Carrsville; VA; Virginia Beach-Norfolk-Newport News; Isle of Wight County
+ZSFH,9999,2016-04-30,169331.0,ZHVI Single-Family Homes Time Series ($),Home values,city,Carrsville; VA; Virginia Beach-Norfolk-Newport News; Isle of Wight County
+ZSFH,9999,2016-03-31,169912.0,ZHVI Single-Family Homes Time Series ($),Home values,city,Carrsville; VA; Virginia Beach-Norfolk-Newport News; Isle of Wight County
+ZSFH,9999,2016-02-29,170483.0,ZHVI Single-Family Homes Time Series ($),Home values,city,Carrsville; VA; Virginia Beach-Norfolk-Newport News; Isle of Wight County
+ZSFH,9999,2016-01-31,169995.0,ZHVI Single-Family Homes Time Series ($),Home values,city,Carrsville; VA; Virginia Beach-Norfolk-Newport News; Isle of Wight County
+ZSFH,99989,2016-11-30,356456.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98833; WA; Okanogan County; Mazama
+ZSFH,99989,2016-10-31,353423.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98833; WA; Okanogan County; Mazama
+ZSFH,99989,2016-09-30,350316.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98833; WA; Okanogan County; Mazama
+ZSFH,99989,2016-08-31,347452.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98833; WA; Okanogan County; Mazama
+ZSFH,99989,2016-07-31,344522.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98833; WA; Okanogan County; Mazama
+ZSFH,99989,2016-06-30,341084.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98833; WA; Okanogan County; Mazama
+ZSFH,99989,2016-05-31,337803.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98833; WA; Okanogan County; Mazama
+ZSFH,99989,2016-04-30,334715.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98833; WA; Okanogan County; Mazama
+ZSFH,99989,2016-03-31,332241.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98833; WA; Okanogan County; Mazama
+ZSFH,99989,2016-02-29,329340.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98833; WA; Okanogan County; Mazama
+ZSFH,99989,2016-01-31,326508.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98833; WA; Okanogan County; Mazama
+ZSFH,99988,2016-11-30,126282.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98832; WA; Moses Lake; Grant County; Krupp
+ZSFH,99988,2016-10-31,125743.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98832; WA; Moses Lake; Grant County; Krupp
+ZSFH,99988,2016-09-30,124752.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98832; WA; Moses Lake; Grant County; Krupp
+ZSFH,99988,2016-08-31,124220.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98832; WA; Moses Lake; Grant County; Krupp
+ZSFH,99988,2016-07-31,124549.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98832; WA; Moses Lake; Grant County; Krupp
+ZSFH,99988,2016-06-30,125617.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98832; WA; Moses Lake; Grant County; Krupp
+ZSFH,99988,2016-05-31,125974.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98832; WA; Moses Lake; Grant County; Krupp
+ZSFH,99988,2016-04-30,126122.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98832; WA; Moses Lake; Grant County; Krupp
+ZSFH,99988,2016-03-31,125096.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98832; WA; Moses Lake; Grant County; Krupp
+ZSFH,99988,2016-02-29,123843.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98832; WA; Moses Lake; Grant County; Krupp
+ZSFH,99988,2016-01-31,122405.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98832; WA; Moses Lake; Grant County; Krupp
+ZSFH,99987,2016-11-30,363855.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98831; WA; Wenatchee; Chelan County; Manson
+ZSFH,99987,2016-10-31,362761.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98831; WA; Wenatchee; Chelan County; Manson
+ZSFH,99987,2016-09-30,360706.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98831; WA; Wenatchee; Chelan County; Manson
+ZSFH,99987,2016-08-31,359768.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98831; WA; Wenatchee; Chelan County; Manson
+ZSFH,99987,2016-07-31,359632.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98831; WA; Wenatchee; Chelan County; Manson
+ZSFH,99987,2016-06-30,360693.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98831; WA; Wenatchee; Chelan County; Manson
+ZSFH,99987,2016-05-31,361524.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98831; WA; Wenatchee; Chelan County; Manson
+ZSFH,99987,2016-04-30,361659.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98831; WA; Wenatchee; Chelan County; Manson
+ZSFH,99987,2016-03-31,358569.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98831; WA; Wenatchee; Chelan County; Manson
+ZSFH,99987,2016-02-29,355919.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98831; WA; Wenatchee; Chelan County; Manson
+ZSFH,99987,2016-01-31,353225.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98831; WA; Wenatchee; Chelan County; Manson
+ZSFH,99986,2016-11-30,130826.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98830; WA; Wenatchee; Douglas County; Mansfield
+ZSFH,99986,2016-10-31,129945.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98830; WA; Wenatchee; Douglas County; Mansfield
+ZSFH,99986,2016-09-30,128783.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98830; WA; Wenatchee; Douglas County; Mansfield
+ZSFH,99986,2016-08-31,127583.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98830; WA; Wenatchee; Douglas County; Mansfield
+ZSFH,99986,2016-07-31,126273.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98830; WA; Wenatchee; Douglas County; Mansfield
+ZSFH,99986,2016-06-30,124997.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98830; WA; Wenatchee; Douglas County; Mansfield
+ZSFH,99986,2016-05-31,123875.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98830; WA; Wenatchee; Douglas County; Mansfield
+ZSFH,99986,2016-04-30,122793.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98830; WA; Wenatchee; Douglas County; Mansfield
+ZSFH,99986,2016-03-31,121710.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98830; WA; Wenatchee; Douglas County; Mansfield
+ZSFH,99986,2016-02-29,120560.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98830; WA; Wenatchee; Douglas County; Mansfield
+ZSFH,99986,2016-01-31,119598.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98830; WA; Wenatchee; Douglas County; Mansfield
+ZSFH,99985,2016-11-30,135873.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98829; WA; Okanogan County; Okanogan
+ZSFH,99985,2016-10-31,135011.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98829; WA; Okanogan County; Okanogan
+ZSFH,99985,2016-09-30,134214.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98829; WA; Okanogan County; Okanogan
+ZSFH,99985,2016-08-31,132835.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98829; WA; Okanogan County; Okanogan
+ZSFH,99985,2016-07-31,130956.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98829; WA; Okanogan County; Okanogan
+ZSFH,99985,2016-06-30,129091.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98829; WA; Okanogan County; Okanogan
+ZSFH,99985,2016-05-31,127441.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98829; WA; Okanogan County; Okanogan
+ZSFH,99985,2016-04-30,126622.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98829; WA; Okanogan County; Okanogan
+ZSFH,99985,2016-03-31,125662.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98829; WA; Okanogan County; Okanogan
+ZSFH,99985,2016-02-29,123973.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98829; WA; Okanogan County; Okanogan
+ZSFH,99985,2016-01-31,122175.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98829; WA; Okanogan County; Okanogan
+ZSFH,99984,2016-11-30,251708.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98828; WA; Wenatchee; Chelan County; Malaga
+ZSFH,99984,2016-10-31,249990.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98828; WA; Wenatchee; Chelan County; Malaga
+ZSFH,99984,2016-09-30,248515.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98828; WA; Wenatchee; Chelan County; Malaga
+ZSFH,99984,2016-08-31,246436.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98828; WA; Wenatchee; Chelan County; Malaga
+ZSFH,99984,2016-07-31,243928.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98828; WA; Wenatchee; Chelan County; Malaga
+ZSFH,99984,2016-06-30,241895.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98828; WA; Wenatchee; Chelan County; Malaga
+ZSFH,99984,2016-05-31,240493.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98828; WA; Wenatchee; Chelan County; Malaga
+ZSFH,99984,2016-04-30,239717.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98828; WA; Wenatchee; Chelan County; Malaga
+ZSFH,99984,2016-03-31,237808.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98828; WA; Wenatchee; Chelan County; Malaga
+ZSFH,99984,2016-02-29,235113.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98828; WA; Wenatchee; Chelan County; Malaga
+ZSFH,99984,2016-01-31,233294.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98828; WA; Wenatchee; Chelan County; Malaga
+ZSFH,99983,2016-11-30,175094.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98827; WA; Okanogan County; Loomis
+ZSFH,99983,2016-10-31,173841.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98827; WA; Okanogan County; Loomis
+ZSFH,99983,2016-09-30,172565.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98827; WA; Okanogan County; Loomis
+ZSFH,99983,2016-08-31,171003.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98827; WA; Okanogan County; Loomis
+ZSFH,99983,2016-07-31,168845.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98827; WA; Okanogan County; Loomis
+ZSFH,99983,2016-06-30,167087.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98827; WA; Okanogan County; Loomis
+ZSFH,99983,2016-05-31,166217.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98827; WA; Okanogan County; Loomis
+ZSFH,99983,2016-04-30,165767.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98827; WA; Okanogan County; Loomis
+ZSFH,99983,2016-03-31,166011.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98827; WA; Okanogan County; Loomis
+ZSFH,99983,2016-02-29,165199.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98827; WA; Okanogan County; Loomis
+ZSFH,99983,2016-01-31,164346.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98827; WA; Okanogan County; Loomis
+ZSFH,99982,2016-11-30,423116.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98826; WA; Wenatchee; Chelan County; Leavenworth
+ZSFH,99982,2016-10-31,420413.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98826; WA; Wenatchee; Chelan County; Leavenworth
+ZSFH,99982,2016-09-30,416445.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98826; WA; Wenatchee; Chelan County; Leavenworth
+ZSFH,99982,2016-08-31,413679.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98826; WA; Wenatchee; Chelan County; Leavenworth
+ZSFH,99982,2016-07-31,411456.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98826; WA; Wenatchee; Chelan County; Leavenworth
+ZSFH,99982,2016-06-30,410813.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98826; WA; Wenatchee; Chelan County; Leavenworth
+ZSFH,99982,2016-05-31,408473.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98826; WA; Wenatchee; Chelan County; Leavenworth
+ZSFH,99982,2016-04-30,405678.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98826; WA; Wenatchee; Chelan County; Leavenworth
+ZSFH,99982,2016-03-31,401975.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98826; WA; Wenatchee; Chelan County; Leavenworth
+ZSFH,99982,2016-02-29,398975.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98826; WA; Wenatchee; Chelan County; Leavenworth
+ZSFH,99982,2016-01-31,398535.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98826; WA; Wenatchee; Chelan County; Leavenworth
+ZSFH,99980,2016-11-30,153400.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98823; WA; Moses Lake; Grant County; Ephrata
+ZSFH,99980,2016-10-31,152337.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98823; WA; Moses Lake; Grant County; Ephrata
+ZSFH,99980,2016-09-30,151139.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98823; WA; Moses Lake; Grant County; Ephrata
+ZSFH,99980,2016-08-31,150164.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98823; WA; Moses Lake; Grant County; Ephrata
+ZSFH,99980,2016-07-31,149396.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98823; WA; Moses Lake; Grant County; Ephrata
+ZSFH,99980,2016-06-30,148925.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98823; WA; Moses Lake; Grant County; Ephrata
+ZSFH,99980,2016-05-31,148665.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98823; WA; Moses Lake; Grant County; Ephrata
+ZSFH,99980,2016-04-30,148648.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98823; WA; Moses Lake; Grant County; Ephrata
+ZSFH,99980,2016-03-31,148608.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98823; WA; Moses Lake; Grant County; Ephrata
+ZSFH,99980,2016-02-29,148055.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98823; WA; Moses Lake; Grant County; Ephrata
+ZSFH,99980,2016-01-31,147293.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98823; WA; Moses Lake; Grant County; Ephrata
+ZSFH,9998,2016-11-30,56044.0,ZHVI Single-Family Homes Time Series ($),Home values,city,Birchleaf; VA; Big Stone Gap; Dickenson County
+ZSFH,9998,2016-10-31,56278.0,ZHVI Single-Family Homes Time Series ($),Home values,city,Birchleaf; VA; Big Stone Gap; Dickenson County
+ZSFH,9998,2016-09-30,56127.0,ZHVI Single-Family Homes Time Series ($),Home values,city,Birchleaf; VA; Big Stone Gap; Dickenson County
+ZSFH,9998,2016-08-31,56084.0,ZHVI Single-Family Homes Time Series ($),Home values,city,Birchleaf; VA; Big Stone Gap; Dickenson County
+ZSFH,9998,2016-07-31,55825.0,ZHVI Single-Family Homes Time Series ($),Home values,city,Birchleaf; VA; Big Stone Gap; Dickenson County
+ZSFH,9998,2016-06-30,55655.0,ZHVI Single-Family Homes Time Series ($),Home values,city,Birchleaf; VA; Big Stone Gap; Dickenson County
+ZSFH,9998,2016-05-31,55443.0,ZHVI Single-Family Homes Time Series ($),Home values,city,Birchleaf; VA; Big Stone Gap; Dickenson County
+ZSFH,9998,2016-04-30,55432.0,ZHVI Single-Family Homes Time Series ($),Home values,city,Birchleaf; VA; Big Stone Gap; Dickenson County
+ZSFH,9998,2016-03-31,55314.0,ZHVI Single-Family Homes Time Series ($),Home values,city,Birchleaf; VA; Big Stone Gap; Dickenson County
+ZSFH,9998,2016-02-29,55117.0,ZHVI Single-Family Homes Time Series ($),Home values,city,Birchleaf; VA; Big Stone Gap; Dickenson County
+ZSFH,9998,2016-01-31,54737.0,ZHVI Single-Family Homes Time Series ($),Home values,city,Birchleaf; VA; Big Stone Gap; Dickenson County
+ZSFH,99979,2016-11-30,243401.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98822; WA; Wenatchee; Chelan County; Entiat
+ZSFH,99979,2016-10-31,241414.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98822; WA; Wenatchee; Chelan County; Entiat
+ZSFH,99979,2016-09-30,239492.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98822; WA; Wenatchee; Chelan County; Entiat
+ZSFH,99979,2016-08-31,237052.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98822; WA; Wenatchee; Chelan County; Entiat
+ZSFH,99979,2016-07-31,236239.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98822; WA; Wenatchee; Chelan County; Entiat
+ZSFH,99979,2016-06-30,234716.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98822; WA; Wenatchee; Chelan County; Entiat
+ZSFH,99979,2016-05-31,232889.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98822; WA; Wenatchee; Chelan County; Entiat
+ZSFH,99979,2016-04-30,230758.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98822; WA; Wenatchee; Chelan County; Entiat
+ZSFH,99979,2016-03-31,229157.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98822; WA; Wenatchee; Chelan County; Entiat
+ZSFH,99979,2016-02-29,227593.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98822; WA; Wenatchee; Chelan County; Entiat
+ZSFH,99979,2016-01-31,226460.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98822; WA; Wenatchee; Chelan County; Entiat
+ZSFH,99978,2016-11-30,228813.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98821; WA; Wenatchee; Chelan County; Cashmere
+ZSFH,99978,2016-10-31,229240.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98821; WA; Wenatchee; Chelan County; Cashmere
+ZSFH,99978,2016-09-30,228968.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98821; WA; Wenatchee; Chelan County; Cashmere
+ZSFH,99978,2016-08-31,227556.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98821; WA; Wenatchee; Chelan County; Cashmere
+ZSFH,99978,2016-07-31,225256.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98821; WA; Wenatchee; Chelan County; Cashmere
+ZSFH,99978,2016-06-30,223278.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98821; WA; Wenatchee; Chelan County; Cashmere
+ZSFH,99978,2016-05-31,220531.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98821; WA; Wenatchee; Chelan County; Cashmere
+ZSFH,99978,2016-04-30,219077.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98821; WA; Wenatchee; Chelan County; Cashmere
+ZSFH,99978,2016-03-31,220453.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98821; WA; Wenatchee; Chelan County; Cashmere
+ZSFH,99978,2016-02-29,220922.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98821; WA; Wenatchee; Chelan County; Cashmere
+ZSFH,99978,2016-01-31,219929.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98821; WA; Wenatchee; Chelan County; Cashmere
+ZSFH,99977,2016-11-30,148487.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98819; WA; Okanogan County; Omak
+ZSFH,99977,2016-10-31,147923.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98819; WA; Okanogan County; Omak
+ZSFH,99977,2016-09-30,147081.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98819; WA; Okanogan County; Omak
+ZSFH,99977,2016-08-31,146536.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98819; WA; Okanogan County; Omak
+ZSFH,99977,2016-07-31,144494.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98819; WA; Okanogan County; Omak
+ZSFH,99977,2016-06-30,142570.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98819; WA; Okanogan County; Omak
+ZSFH,99977,2016-05-31,140416.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98819; WA; Okanogan County; Omak
+ZSFH,99977,2016-04-30,139325.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98819; WA; Okanogan County; Omak
+ZSFH,99977,2016-03-31,138446.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98819; WA; Okanogan County; Omak
+ZSFH,99977,2016-02-29,137243.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98819; WA; Okanogan County; Omak
+ZSFH,99977,2016-01-31,136510.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98819; WA; Okanogan County; Omak
+ZSFH,99976,2016-11-30,204146.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98817; WA; Wenatchee; Chelan County; Chelan Falls
+ZSFH,99976,2016-10-31,202816.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98817; WA; Wenatchee; Chelan County; Chelan Falls
+ZSFH,99976,2016-09-30,201745.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98817; WA; Wenatchee; Chelan County; Chelan Falls
+ZSFH,99976,2016-08-31,199927.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98817; WA; Wenatchee; Chelan County; Chelan Falls
+ZSFH,99976,2016-07-31,200341.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98817; WA; Wenatchee; Chelan County; Chelan Falls
+ZSFH,99976,2016-06-30,199482.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98817; WA; Wenatchee; Chelan County; Chelan Falls
+ZSFH,99976,2016-05-31,198896.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98817; WA; Wenatchee; Chelan County; Chelan Falls
+ZSFH,99976,2016-04-30,196390.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98817; WA; Wenatchee; Chelan County; Chelan Falls
+ZSFH,99976,2016-03-31,195088.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98817; WA; Wenatchee; Chelan County; Chelan Falls
+ZSFH,99976,2016-02-29,195062.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98817; WA; Wenatchee; Chelan County; Chelan Falls
+ZSFH,99976,2016-01-31,194531.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98817; WA; Wenatchee; Chelan County; Chelan Falls
+ZSFH,99975,2016-11-30,416931.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98816; WA; Wenatchee; Chelan County; Chelan
+ZSFH,99975,2016-10-31,414234.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98816; WA; Wenatchee; Chelan County; Chelan
+ZSFH,99975,2016-09-30,412296.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98816; WA; Wenatchee; Chelan County; Chelan
+ZSFH,99975,2016-08-31,411372.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98816; WA; Wenatchee; Chelan County; Chelan
+ZSFH,99975,2016-07-31,411992.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98816; WA; Wenatchee; Chelan County; Chelan
+ZSFH,99975,2016-06-30,413907.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98816; WA; Wenatchee; Chelan County; Chelan
+ZSFH,99975,2016-05-31,414891.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98816; WA; Wenatchee; Chelan County; Chelan
+ZSFH,99975,2016-04-30,414664.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98816; WA; Wenatchee; Chelan County; Chelan
+ZSFH,99975,2016-03-31,415250.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98816; WA; Wenatchee; Chelan County; Chelan
+ZSFH,99975,2016-02-29,416235.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98816; WA; Wenatchee; Chelan County; Chelan
+ZSFH,99975,2016-01-31,416022.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98816; WA; Wenatchee; Chelan County; Chelan
+ZSFH,99974,2016-11-30,279435.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98815; WA; Wenatchee; Chelan County; Cashmere
+ZSFH,99974,2016-10-31,278826.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98815; WA; Wenatchee; Chelan County; Cashmere
+ZSFH,99974,2016-09-30,277397.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98815; WA; Wenatchee; Chelan County; Cashmere
+ZSFH,99974,2016-08-31,275373.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98815; WA; Wenatchee; Chelan County; Cashmere
+ZSFH,99974,2016-07-31,272853.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98815; WA; Wenatchee; Chelan County; Cashmere
+ZSFH,99974,2016-06-30,270424.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98815; WA; Wenatchee; Chelan County; Cashmere
+ZSFH,99974,2016-05-31,268003.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98815; WA; Wenatchee; Chelan County; Cashmere
+ZSFH,99974,2016-04-30,266079.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98815; WA; Wenatchee; Chelan County; Cashmere
+ZSFH,99974,2016-03-31,265996.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98815; WA; Wenatchee; Chelan County; Cashmere
+ZSFH,99974,2016-02-29,264951.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98815; WA; Wenatchee; Chelan County; Cashmere
+ZSFH,99974,2016-01-31,263062.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98815; WA; Wenatchee; Chelan County; Cashmere
+ZSFH,99973,2016-11-30,292304.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98814; WA; Okanogan County; Carlton
+ZSFH,99973,2016-10-31,290522.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98814; WA; Okanogan County; Carlton
+ZSFH,99973,2016-09-30,288060.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98814; WA; Okanogan County; Carlton
+ZSFH,99973,2016-08-31,285717.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98814; WA; Okanogan County; Carlton
+ZSFH,99973,2016-07-31,283356.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98814; WA; Okanogan County; Carlton
+ZSFH,99973,2016-06-30,280688.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98814; WA; Okanogan County; Carlton
+ZSFH,99973,2016-05-31,278170.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98814; WA; Okanogan County; Carlton
+ZSFH,99973,2016-04-30,275989.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98814; WA; Okanogan County; Carlton
+ZSFH,99973,2016-03-31,273885.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98814; WA; Okanogan County; Carlton
+ZSFH,99973,2016-02-29,271536.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98814; WA; Okanogan County; Carlton
+ZSFH,99973,2016-01-31,268408.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98814; WA; Okanogan County; Carlton
+ZSFH,99972,2016-11-30,126698.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98813; WA; Wenatchee; Douglas County; Bridgeport
+ZSFH,99972,2016-10-31,125475.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98813; WA; Wenatchee; Douglas County; Bridgeport
+ZSFH,99972,2016-09-30,124195.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98813; WA; Wenatchee; Douglas County; Bridgeport
+ZSFH,99972,2016-08-31,122958.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98813; WA; Wenatchee; Douglas County; Bridgeport
+ZSFH,99972,2016-07-31,121661.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98813; WA; Wenatchee; Douglas County; Bridgeport
+ZSFH,99972,2016-06-30,120522.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98813; WA; Wenatchee; Douglas County; Bridgeport
+ZSFH,99972,2016-05-31,119389.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98813; WA; Wenatchee; Douglas County; Bridgeport
+ZSFH,99972,2016-04-30,118493.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98813; WA; Wenatchee; Douglas County; Bridgeport
+ZSFH,99972,2016-03-31,117682.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98813; WA; Wenatchee; Douglas County; Bridgeport
+ZSFH,99972,2016-02-29,116502.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98813; WA; Wenatchee; Douglas County; Bridgeport
+ZSFH,99972,2016-01-31,115059.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98813; WA; Wenatchee; Douglas County; Bridgeport
+ZSFH,99971,2016-11-30,182538.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98812; WA; Okanogan County; Brewster
+ZSFH,99971,2016-10-31,180791.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98812; WA; Okanogan County; Brewster
+ZSFH,99971,2016-09-30,179220.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98812; WA; Okanogan County; Brewster
+ZSFH,99971,2016-08-31,177500.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98812; WA; Okanogan County; Brewster
+ZSFH,99971,2016-07-31,175919.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98812; WA; Okanogan County; Brewster
+ZSFH,99971,2016-06-30,174055.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98812; WA; Okanogan County; Brewster
+ZSFH,99971,2016-05-31,172251.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98812; WA; Okanogan County; Brewster
+ZSFH,99971,2016-04-30,170581.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98812; WA; Okanogan County; Brewster
+ZSFH,99971,2016-03-31,169023.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98812; WA; Okanogan County; Brewster
+ZSFH,99971,2016-02-29,167496.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98812; WA; Okanogan County; Brewster
+ZSFH,99971,2016-01-31,166023.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98812; WA; Okanogan County; Brewster
+ZSFH,99970,2016-11-30,161032.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98811; WA; Wenatchee; Chelan County; Entiat
+ZSFH,99970,2016-10-31,160378.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98811; WA; Wenatchee; Chelan County; Entiat
+ZSFH,99970,2016-09-30,160855.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98811; WA; Wenatchee; Chelan County; Entiat
+ZSFH,99970,2016-08-31,158724.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98811; WA; Wenatchee; Chelan County; Entiat
+ZSFH,99970,2016-07-31,159148.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98811; WA; Wenatchee; Chelan County; Entiat
+ZSFH,99970,2016-06-30,157458.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98811; WA; Wenatchee; Chelan County; Entiat
+ZSFH,99970,2016-05-31,155207.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98811; WA; Wenatchee; Chelan County; Entiat
+ZSFH,99970,2016-04-30,152453.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98811; WA; Wenatchee; Chelan County; Entiat
+ZSFH,99970,2016-03-31,151498.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98811; WA; Wenatchee; Chelan County; Entiat
+ZSFH,99970,2016-02-29,150560.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98811; WA; Wenatchee; Chelan County; Entiat
+ZSFH,99970,2016-01-31,150113.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98811; WA; Wenatchee; Chelan County; Entiat
+ZSFH,99968,2016-11-30,289411.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98802; WA; Wenatchee; Douglas County; East Wenatchee Bench
+ZSFH,99968,2016-10-31,286893.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98802; WA; Wenatchee; Douglas County; East Wenatchee Bench
+ZSFH,99968,2016-09-30,284290.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98802; WA; Wenatchee; Douglas County; East Wenatchee Bench
+ZSFH,99968,2016-08-31,281669.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98802; WA; Wenatchee; Douglas County; East Wenatchee Bench
+ZSFH,99968,2016-07-31,279144.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98802; WA; Wenatchee; Douglas County; East Wenatchee Bench
+ZSFH,99968,2016-06-30,276787.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98802; WA; Wenatchee; Douglas County; East Wenatchee Bench
+ZSFH,99968,2016-05-31,274528.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98802; WA; Wenatchee; Douglas County; East Wenatchee Bench
+ZSFH,99968,2016-04-30,272461.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98802; WA; Wenatchee; Douglas County; East Wenatchee Bench
+ZSFH,99968,2016-03-31,270378.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98802; WA; Wenatchee; Douglas County; East Wenatchee Bench
+ZSFH,99968,2016-02-29,268174.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98802; WA; Wenatchee; Douglas County; East Wenatchee Bench
+ZSFH,99968,2016-01-31,265698.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98802; WA; Wenatchee; Douglas County; East Wenatchee Bench
+ZSFH,99967,2016-11-30,268591.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98801; WA; Wenatchee; Chelan County
+ZSFH,99967,2016-10-31,267083.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98801; WA; Wenatchee; Chelan County
+ZSFH,99967,2016-09-30,265736.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98801; WA; Wenatchee; Chelan County
+ZSFH,99967,2016-08-31,264518.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98801; WA; Wenatchee; Chelan County
+ZSFH,99967,2016-07-31,262528.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98801; WA; Wenatchee; Chelan County
+ZSFH,99967,2016-06-30,260614.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98801; WA; Wenatchee; Chelan County
+ZSFH,99967,2016-05-31,258591.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98801; WA; Wenatchee; Chelan County
+ZSFH,99967,2016-04-30,258044.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98801; WA; Wenatchee; Chelan County
+ZSFH,99967,2016-03-31,257903.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98801; WA; Wenatchee; Chelan County
+ZSFH,99967,2016-02-29,257459.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98801; WA; Wenatchee; Chelan County
+ZSFH,99967,2016-01-31,256483.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98801; WA; Wenatchee; Chelan County
+ZSFH,99965,2016-11-30,355779.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98686
+ZSFH,99965,2016-10-31,353841.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98686
+ZSFH,99965,2016-09-30,351281.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98686
+ZSFH,99965,2016-08-31,347291.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98686
+ZSFH,99965,2016-07-31,344104.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98686
+ZSFH,99965,2016-06-30,340991.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98686
+ZSFH,99965,2016-05-31,339577.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98686
+ZSFH,99965,2016-04-30,338203.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98686
+ZSFH,99965,2016-03-31,335002.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98686
+ZSFH,99965,2016-02-29,331523.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98686
+ZSFH,99965,2016-01-31,328436.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98686
+ZSFH,99964,2016-11-30,354479.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98685; WA; Portland-Vancouver-Hillsboro; Clark County; Vancouver
+ZSFH,99964,2016-10-31,352617.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98685; WA; Portland-Vancouver-Hillsboro; Clark County; Vancouver
+ZSFH,99964,2016-09-30,349968.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98685; WA; Portland-Vancouver-Hillsboro; Clark County; Vancouver
+ZSFH,99964,2016-08-31,345900.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98685; WA; Portland-Vancouver-Hillsboro; Clark County; Vancouver
+ZSFH,99964,2016-07-31,342308.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98685; WA; Portland-Vancouver-Hillsboro; Clark County; Vancouver
+ZSFH,99964,2016-06-30,338913.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98685; WA; Portland-Vancouver-Hillsboro; Clark County; Vancouver
+ZSFH,99964,2016-05-31,337192.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98685; WA; Portland-Vancouver-Hillsboro; Clark County; Vancouver
+ZSFH,99964,2016-04-30,335634.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98685; WA; Portland-Vancouver-Hillsboro; Clark County; Vancouver
+ZSFH,99964,2016-03-31,332436.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98685; WA; Portland-Vancouver-Hillsboro; Clark County; Vancouver
+ZSFH,99964,2016-02-29,329167.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98685; WA; Portland-Vancouver-Hillsboro; Clark County; Vancouver
+ZSFH,99964,2016-01-31,326495.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98685; WA; Portland-Vancouver-Hillsboro; Clark County; Vancouver
+ZSFH,99963,2016-11-30,288119.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98684; WA; Portland-Vancouver-Hillsboro; Clark County; Vancouver
+ZSFH,99963,2016-10-31,286146.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98684; WA; Portland-Vancouver-Hillsboro; Clark County; Vancouver
+ZSFH,99963,2016-09-30,283601.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98684; WA; Portland-Vancouver-Hillsboro; Clark County; Vancouver
+ZSFH,99963,2016-08-31,280099.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98684; WA; Portland-Vancouver-Hillsboro; Clark County; Vancouver
+ZSFH,99963,2016-07-31,277193.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98684; WA; Portland-Vancouver-Hillsboro; Clark County; Vancouver
+ZSFH,99963,2016-06-30,274382.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98684; WA; Portland-Vancouver-Hillsboro; Clark County; Vancouver
+ZSFH,99963,2016-05-31,273047.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98684; WA; Portland-Vancouver-Hillsboro; Clark County; Vancouver
+ZSFH,99963,2016-04-30,271571.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98684; WA; Portland-Vancouver-Hillsboro; Clark County; Vancouver
+ZSFH,99963,2016-03-31,268660.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98684; WA; Portland-Vancouver-Hillsboro; Clark County; Vancouver
+ZSFH,99963,2016-02-29,265555.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98684; WA; Portland-Vancouver-Hillsboro; Clark County; Vancouver
+ZSFH,99963,2016-01-31,262867.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98684; WA; Portland-Vancouver-Hillsboro; Clark County; Vancouver
+ZSFH,99962,2016-11-30,338199.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98683
+ZSFH,99962,2016-10-31,336014.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98683
+ZSFH,99962,2016-09-30,332976.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98683
+ZSFH,99962,2016-08-31,328507.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98683
+ZSFH,99962,2016-07-31,325270.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98683
+ZSFH,99962,2016-06-30,322111.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98683
+ZSFH,99962,2016-05-31,320703.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98683
+ZSFH,99962,2016-04-30,319115.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98683
+ZSFH,99962,2016-03-31,316035.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98683
+ZSFH,99962,2016-02-29,312791.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98683
+ZSFH,99962,2016-01-31,310042.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98683
+ZSFH,99961,2016-11-30,285429.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98682
+ZSFH,99961,2016-10-31,283703.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98682
+ZSFH,99961,2016-09-30,281276.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98682
+ZSFH,99961,2016-08-31,277627.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98682
+ZSFH,99961,2016-07-31,274704.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98682
+ZSFH,99961,2016-06-30,271858.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98682
+ZSFH,99961,2016-05-31,270537.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98682
+ZSFH,99961,2016-04-30,269059.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98682
+ZSFH,99961,2016-03-31,266446.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98682
+ZSFH,99961,2016-02-29,263315.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98682
+ZSFH,99961,2016-01-31,260615.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98682
+ZSFH,99960,2016-11-30,359129.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98675; WA; Portland-Vancouver-Hillsboro; Clark County; Yacolt
+ZSFH,99960,2016-10-31,354200.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98675; WA; Portland-Vancouver-Hillsboro; Clark County; Yacolt
+ZSFH,99960,2016-09-30,349172.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98675; WA; Portland-Vancouver-Hillsboro; Clark County; Yacolt
+ZSFH,99960,2016-08-31,345666.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98675; WA; Portland-Vancouver-Hillsboro; Clark County; Yacolt
+ZSFH,99960,2016-07-31,343881.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98675; WA; Portland-Vancouver-Hillsboro; Clark County; Yacolt
+ZSFH,99960,2016-06-30,341229.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98675; WA; Portland-Vancouver-Hillsboro; Clark County; Yacolt
+ZSFH,99960,2016-05-31,339112.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98675; WA; Portland-Vancouver-Hillsboro; Clark County; Yacolt
+ZSFH,99960,2016-04-30,336361.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98675; WA; Portland-Vancouver-Hillsboro; Clark County; Yacolt
+ZSFH,99960,2016-03-31,332703.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98675; WA; Portland-Vancouver-Hillsboro; Clark County; Yacolt
+ZSFH,99960,2016-02-29,329634.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98675; WA; Portland-Vancouver-Hillsboro; Clark County; Yacolt
+ZSFH,99960,2016-01-31,326376.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98675; WA; Portland-Vancouver-Hillsboro; Clark County; Yacolt
+ZSFH,99959,2016-11-30,317149.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98674; WA; Longview; Cowlitz County; Woodland
+ZSFH,99959,2016-10-31,314607.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98674; WA; Longview; Cowlitz County; Woodland
+ZSFH,99959,2016-09-30,311573.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98674; WA; Longview; Cowlitz County; Woodland
+ZSFH,99959,2016-08-31,308932.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98674; WA; Longview; Cowlitz County; Woodland
+ZSFH,99959,2016-07-31,307207.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98674; WA; Longview; Cowlitz County; Woodland
+ZSFH,99959,2016-06-30,305324.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98674; WA; Longview; Cowlitz County; Woodland
+ZSFH,99959,2016-05-31,303306.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98674; WA; Longview; Cowlitz County; Woodland
+ZSFH,99959,2016-04-30,300507.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98674; WA; Longview; Cowlitz County; Woodland
+ZSFH,99959,2016-03-31,298133.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98674; WA; Longview; Cowlitz County; Woodland
+ZSFH,99959,2016-02-29,295659.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98674; WA; Longview; Cowlitz County; Woodland
+ZSFH,99959,2016-01-31,293296.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98674; WA; Longview; Cowlitz County; Woodland
+ZSFH,99958,2016-11-30,89559.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98673; WA; Klickitat County; Centerville
+ZSFH,99958,2016-10-31,88516.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98673; WA; Klickitat County; Centerville
+ZSFH,99958,2016-09-30,88085.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98673; WA; Klickitat County; Centerville
+ZSFH,99958,2016-08-31,88019.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98673; WA; Klickitat County; Centerville
+ZSFH,99958,2016-07-31,87956.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98673; WA; Klickitat County; Centerville
+ZSFH,99958,2016-06-30,87537.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98673; WA; Klickitat County; Centerville
+ZSFH,99958,2016-05-31,86712.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98673; WA; Klickitat County; Centerville
+ZSFH,99958,2016-04-30,85563.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98673; WA; Klickitat County; Centerville
+ZSFH,99958,2016-03-31,84331.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98673; WA; Klickitat County; Centerville
+ZSFH,99958,2016-02-29,83611.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98673; WA; Klickitat County; Centerville
+ZSFH,99958,2016-01-31,83023.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98673; WA; Klickitat County; Centerville
+ZSFH,99957,2016-11-30,364091.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98672; WA; Klickitat County; White Salmon
+ZSFH,99957,2016-10-31,362346.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98672; WA; Klickitat County; White Salmon
+ZSFH,99957,2016-09-30,359643.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98672; WA; Klickitat County; White Salmon
+ZSFH,99957,2016-08-31,356758.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98672; WA; Klickitat County; White Salmon
+ZSFH,99957,2016-07-31,353868.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98672; WA; Klickitat County; White Salmon
+ZSFH,99957,2016-06-30,350564.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98672; WA; Klickitat County; White Salmon
+ZSFH,99957,2016-05-31,347575.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98672; WA; Klickitat County; White Salmon
+ZSFH,99957,2016-04-30,344774.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98672; WA; Klickitat County; White Salmon
+ZSFH,99957,2016-03-31,342361.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98672; WA; Klickitat County; White Salmon
+ZSFH,99957,2016-02-29,339847.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98672; WA; Klickitat County; White Salmon
+ZSFH,99957,2016-01-31,337165.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98672; WA; Klickitat County; White Salmon
+ZSFH,99956,2016-11-30,354285.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98671
+ZSFH,99956,2016-10-31,352196.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98671
+ZSFH,99956,2016-09-30,349305.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98671
+ZSFH,99956,2016-08-31,345190.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98671
+ZSFH,99956,2016-07-31,342034.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98671
+ZSFH,99956,2016-06-30,338863.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98671
+ZSFH,99956,2016-05-31,337400.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98671
+ZSFH,99956,2016-04-30,335637.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98671
+ZSFH,99956,2016-03-31,332544.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98671
+ZSFH,99956,2016-02-29,328841.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98671
+ZSFH,99956,2016-01-31,325429.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98671
+ZSFH,99955,2016-11-30,227740.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98670; WA; Klickitat County; Wahkiacus
+ZSFH,99955,2016-10-31,227117.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98670; WA; Klickitat County; Wahkiacus
+ZSFH,99955,2016-09-30,224036.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98670; WA; Klickitat County; Wahkiacus
+ZSFH,99955,2016-08-31,221052.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98670; WA; Klickitat County; Wahkiacus
+ZSFH,99955,2016-07-31,217703.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98670; WA; Klickitat County; Wahkiacus
+ZSFH,99955,2016-06-30,214622.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98670; WA; Klickitat County; Wahkiacus
+ZSFH,99955,2016-05-31,211467.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98670; WA; Klickitat County; Wahkiacus
+ZSFH,99955,2016-04-30,209366.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98670; WA; Klickitat County; Wahkiacus
+ZSFH,99955,2016-03-31,208291.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98670; WA; Klickitat County; Wahkiacus
+ZSFH,99955,2016-02-29,206058.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98670; WA; Klickitat County; Wahkiacus
+ZSFH,99955,2016-01-31,203992.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98670; WA; Klickitat County; Wahkiacus
+ZSFH,99951,2016-11-30,292797.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98665; WA; Portland-Vancouver-Hillsboro; Clark County; Vancouver
+ZSFH,99951,2016-10-31,291619.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98665; WA; Portland-Vancouver-Hillsboro; Clark County; Vancouver
+ZSFH,99951,2016-09-30,289782.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98665; WA; Portland-Vancouver-Hillsboro; Clark County; Vancouver
+ZSFH,99951,2016-08-31,286517.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98665; WA; Portland-Vancouver-Hillsboro; Clark County; Vancouver
+ZSFH,99951,2016-07-31,283552.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98665; WA; Portland-Vancouver-Hillsboro; Clark County; Vancouver
+ZSFH,99951,2016-06-30,280559.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98665; WA; Portland-Vancouver-Hillsboro; Clark County; Vancouver
+ZSFH,99951,2016-05-31,278833.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98665; WA; Portland-Vancouver-Hillsboro; Clark County; Vancouver
+ZSFH,99951,2016-04-30,277309.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98665; WA; Portland-Vancouver-Hillsboro; Clark County; Vancouver
+ZSFH,99951,2016-03-31,274348.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98665; WA; Portland-Vancouver-Hillsboro; Clark County; Vancouver
+ZSFH,99951,2016-02-29,271609.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98665; WA; Portland-Vancouver-Hillsboro; Clark County; Vancouver
+ZSFH,99951,2016-01-31,269164.0,ZHVI Single-Family Homes Time Series ($),Home values,zip,98665; WA; Portland-Vancouver-Hillsboro; Clark County; Vancouver
