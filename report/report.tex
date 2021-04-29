@@ -3,6 +3,7 @@
 \usepackage{geometry}
 \geometry{letterpaper, total={7in, 10in} }
 
+\usepackage{hyperref}
 \usepackage{booktabs}
 \usepackage{graphicx}
 \usepackage{verbatim}
@@ -15,6 +16,51 @@
 \begin{document}
 	\maketitle
 	\tableofcontents
+	\newpage
 	
+	\section{Problem Statement: Forecasting Housing Market}
+	
+	The goal of our project was to determine if future housing market pricing can be explained by 
+	previous housing market data. We also wanted analyze the usage of exogenous variables in our time-series 
+	modeling, and whether it makes a difference. This task is distinct from housing market prediction, which 
+	relies on the features of the market, and the house. Using time-series data presented our group a new 
+	and novel challenge. 
+	
+	\section{The Datasets}
+	
+	We identified two datasets for potential use in our projects. 
+	
+	\begin{enumerate}
+		\item  \href{https://www.quandl.com/databases/ZILLOW/data}{Quandl Data from Zillow}
+		\item \href{https://www.consumerfinance.gov/data-research/hmda/historic-data/?geo=nationwide&records=all-records&field_descriptions=labels}{USA Home Mortgage Disclosure Act Data}
+	\end{enumerate}
+
+	Each dataset has very different forms, and presented different challenges. The Housing Mortgage Disclosure Act was passed 
+	by congress in 1975, and requires multiple federal agencies to keep track of all mortgage loans filed for and 
+	denied. The datasets that we are using from the HMDA contain all mortgages filed for in America for a given year. 
+	This data is very large, and we decided to use only a subset of the the available data from 2014-2017. These 
+	4 datasets combined were around 40GB of data, and so we required a different approach for data analysis. We 
+	got around the large nature of the data using an SQLite3 database and querying it for EDA using the corresponding 
+	sqlite3 python library. 
+	
+	The Zillow data comes from Quandl, a web api for many types of time-series data. This data has over 70,000 regions
+	and corresponds to years of aggregated monthly home sales. For the purposes of this project we downloaded 43 different 
+	regional data, mostly from the state of Washington. These different regions will be used for testing our models, and we will try 
+	to compare them to one another. A key drawback of this approach is that some regions have data that goes further back 
+	than other regions, as long as the future housing values aren't affected by values from further in the past than 10+ years
+	the results should be directly comparable. 
+	
+	We will decide on which datasets to use for our modeling after taking into account the preprocessing that we will need, and 
+	doing some exploratory data analysis. 
+
+	\section{Preprocessing Techniques}
+	\section{Exploratory Data Analysis}
+	\section{Modeling}
+	\subsection{Auto-Regressive Model}
+	\subsection{Seasonal Auto-Regressive Integrated Moving Average}
+	\subsection{Gated Recurrent Unit RNN}
+	\subsection{Long Short-Term Memory}
+	\section{Results \& Conclusion}
+	\section{Recommendations of Study}
 	
 \end{document}

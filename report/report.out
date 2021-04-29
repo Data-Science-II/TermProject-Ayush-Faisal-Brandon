@@ -1,0 +1,11 @@
+\BOOKMARK [1][-]{section.1}{Problem Statement: Forecasting Housing Market}{}% 1
+\BOOKMARK [1][-]{section.2}{The Datasets}{}% 2
+\BOOKMARK [1][-]{section.3}{Preprocessing Techniques}{}% 3
+\BOOKMARK [1][-]{section.4}{Exploratory Data Analysis}{}% 4
+\BOOKMARK [1][-]{section.5}{Modeling}{}% 5
+\BOOKMARK [2][-]{subsection.5.1}{Auto-Regressive Model}{section.5}% 6
+\BOOKMARK [2][-]{subsection.5.2}{Seasonal Auto-Regressive Integrated Moving Average}{section.5}% 7
+\BOOKMARK [2][-]{subsection.5.3}{Gated Recurrent Unit RNN}{section.5}% 8
+\BOOKMARK [2][-]{subsection.5.4}{Long Short-Term Memory}{section.5}% 9
+\BOOKMARK [1][-]{section.6}{Results \046 Conclusion}{}% 10
+\BOOKMARK [1][-]{section.7}{Recommendations of Study}{}% 11
