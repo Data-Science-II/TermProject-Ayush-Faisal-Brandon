@@ -54,7 +54,48 @@
 	doing some exploratory data analysis. 
 
 	\section{Preprocessing Techniques}
+	
+	\subsection{Zillow Data}
+	
+	Different models will require different data manipulation techniques, but the Quandl curates clean easy to use datasets. For this 
+	reason all our group had to do was take out the required columns, and cast them to the correct types. The columns we used for 
+	our analysis were: 
+	
+	\begin{enumerate}
+		\item date - the date of the observation, always the 1st of the month 
+		\item value - the average home sell value in that particular location
+		
+	\end{enumerate}
+
+	We simply cast the date to a numpy date-time object and left the values as were. For the RNN models we did rescale the data 
+	using a MinMaxScaler, but we will cover that more in depth in the modeling section of the report. 
+	
+	\subsection{HMDA Data}
+	The HMDA data is much dirtier and much more complicated to use. We applied the following filters before undergoing any 
+	sort of EDA.  
+	
+	\begin{enumerate}
+		\item Property Type - limited to one-to-four family dwellings
+		\item Approved Mortgages - Houses were actually sold 
+		\item loan purpose - only home purchase 
+		\item state - Washington State Only because of Zillow regions
+	\end{enumerate}
+
+	Since we will be focusing on aggregated data we will simply be ignoring data that was missing. 	We aggregated the following 
+	columns for further analysis, as they were based on characteristics of the region overall rather than specific to a particular 
+	mortgage application. 
+	
+	\begin{enumerate}
+		\item Loan Amount (Thousands)
+		\item Population 
+		\item Minority Population (Expressed as a percentage)
+		\item HUD Median Family Income 
+	\end{enumerate}
+
 	\section{Exploratory Data Analysis}
+	
+	\includegraphics[scale = 0.5]{../plots/hmda_hist.png}
+	
 	\section{Modeling}
 	\subsection{Auto-Regressive Model}
 	\subsection{Seasonal Auto-Regressive Integrated Moving Average}
