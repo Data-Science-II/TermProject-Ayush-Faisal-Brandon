@@ -25,7 +25,7 @@
 	modeling, and whether it makes a difference. This task is distinct from housing market prediction, which 
 	relies on the features of the market, and the house. Using time-series data presented our group a new 
 	and novel challenge. 
-	
+
 	\section{The Datasets}
 	
 	We identified two datasets for potential use in our projects. 
@@ -60,6 +60,27 @@
 	\subsection{Seasonal Auto-Regressive Integrated Moving Average}
 	\subsection{Gated Recurrent Unit RNN}
 	\subsection{Long Short-Term Memory}
+	
+	LSTM uses silimar shaped data as GRU, and maintains a control flow similar as an RNN. LSTM processes the data continuously as it grows 
+	forward, while the data analyst is allowed to keep or forget the previous code. The analyst may choose to use the previous data through
+	operations that can allow the LSTM to keep or forget information as an instruction.
+
+	Graphs
+	
+	\includegraphics[scale = 0.2]{../plots/wentachee_1d_lstm.png}
+	\includegraphics[scale = 0.2]{../plots/wentachee_lag.png}
+
+	\subsection{Results}
+
+	The LSTM gives us an accurate prediction that is slightly better than others. The R-Squared is the
+	highest given of all three models (not including the autoregression). While the GRU model tended to
+	underestimate, or rather undershoot the actual, the LSTM actually overshot it. The LSTM predicted
+	higher numbers than the GRU, however both could not account for the dip in the housing market that 
+	we believe was caused by the coronavirus pandemic. This is a reasonable assumption since these models
+	cannot predict real world issues and events, only how a model should perform under the same previous
+	circumstances. The lag plot given was also similar to the GRU, and gave farely accurate measurements
+	as well.
+	
 	\section{Results \& Conclusion}
 	\section{Recommendations of Study}
 	
