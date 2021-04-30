@@ -10,7 +10,7 @@
 \usepackage{appendix}
 
 \title{Term Project CSCI 4360, Housing Market Forecasting}
-\author{Ayush Kumar, Faisal Hossain, Brandon Amirouche}
+\author{Ayush Kumar, Brandon Amirouche, Faisal Hossain}
 \date{April 27, 2021}
 
 \begin{document}
@@ -106,7 +106,97 @@
 	
 	\section{Modeling}
 	\subsection{Auto-Regressive Model}
+	Autoregression is a time series model that uses observations from previous time steps as input to a regression equation to predict the value at the next time step - resulting in accurate forecasts on a range of time series problems. \\
+	
+	A regression model, such as linear regression, models an output value based on a linear combination of input values. This technique can be used on time series where input variables are taken as observations at previous time steps, called lag variables. So, we can predict the value for the next time step (t+1) given the observations at the last two time steps (t-1 and t-2). \\
+	
+	Essentially, we are fitting data from the same input variable at previous time steps into the linear regression equation and that's why it's referred to as an autoregression (regression of self). \\
+	
+	Equation: X(t+1) = b0 + b1*X(t-1) + b2*X(t-2)\\
+	
+	Using the built-in plot in the Pandas library, we created a lag plot to visually check to see any auto-correlation in the time series data set. The figure below is the display of the lag plot. \\
+	
+	\includegraphics[scale = 0.2]{../plots/2018/zillow2018_lag.png} \\
+	
+	Auto-correlation is similar to correlation as they both describe the relationship between two variables. Auto-correlation calculates the relationship for time-series observations with the previous time steps or as mentioned before, lags. The linear pattern exhibited in the lag plot shows that the data are strongly non-random and further suggests that an autoregressive model might be appropriate. Strong positive correlation (0.901) between the observation and the lag=1 value. \\
+	
+	\begin{center}
+    \begin{tabular}{ c c c }
+     \smallskip & t-1 & t+1 \\ 
+     t-1 & 1.000 & 0.901 \\  
+     t+1 & 0.901 & 1.000    
+    \end{tabular}
+    \end{center} \\
+	
+	By plotting the correlation coefficient for each lag variable, we can get a good idea of which lag variables may be good candidates in our predictive model and see how the relationship between the observation and its historic values changes over time. \\
+	
+	The auto-correlation plot below is a 2D plot showing the lag number along the x-axis and the correlation coefficient value between -1 and 1 on the y-axis. The plot also includes solid and dashed lines that indicate the 95\% and 99\% confidence interval for the correlation values. Correlation values above these lines are more significant than those below the line, providing a threshold or cutoff for selecting more relevant lag values. \\
+	
+	\includegraphics[scale = 0.2]{../plots/2018/zillow2018_autocorrelation1.png} \\
+	
+	The figure below is the same auto-correlation plot but with a limit of the lag variables evaluated to 31 for readability. The Confidence intervals can be seen as the shaded figures within the plot. By default the shaded figure cone is set to a 95\% confidence interval, suggesting that correlation values outside of this cone are very likely a correlation. \\
+	
+	\includegraphics[scale = 0.2]{../plots/2018/zillow2018_autocorrelation2.png} \\
+	
+	The figure below is the baseline AR models and you can observe that it performs worse as the prediction range increases. \\
+	
+	\includegraphics[scale = 0.2]{../plots/2018/zillow2018_AR-model-base20.png}
+	\begin{center}
+    \begin{tabular}{ c }
+     AR Model 20 days forecast stats \\ 
+     RMSE: 26,568.42 \\  
+     Rsq: 0.527 \\
+     MAPE: 0.076 \\
+    \end{tabular}
+    \end{center}
+	
+	\includegraphics[scale = 0.2]{../plots/2018/zillow2018_AR-model-base365.png}
+	\begin{center}
+    \begin{tabular}{ c }
+     AR Model 365 days forecast stats \\ 
+     RMSE: 116,649.77 \\  
+     Rsq: -0.114 \\
+     MAPE: 0.454 \\
+    \end{tabular}
+    \end{center} 
+	
+	A method to tuning this model would be to use the learned coefficients and manually make predictions. This requires that the history of 29 prior observations be kept and that the coefficients to be retrieved from the model and used in the regression equation to come up with new forecasts. As you can see below the forecasts of model tuned is far more accurate and allows for a longer forecasting range. \\
+
+	\includegraphics[scale = 0.2]{../plots/2018/zillow2018_AR-model.png}
+	\begin{center}
+    \begin{tabular}{ c }
+     AR Tuned Model 365 days forecast stats \\ 
+     RMSE: 45,571.047 \\  
+     Rsq: 0.830 \\
+     MAPE: 0.108 \\
+    \end{tabular}
+    \end{center}
+
+    Tuning: The coefficients are provided in an array with the intercept term followed by the coefficients for each lag variable starting at t-1 to t-n. We simply need to use them in the right order on the history of observations, as follows: \\ yhat = b0 + b1*X1 + b2*X2 ... bn*Xn 
+
 	\subsection{Seasonal Auto-Regressive Integrated Moving Average}
+	The Seasonal Autoregressive Integrated Moving Average (SARIMA) method models the next step in the sequence as a linear function of the differenced observations, errors, differenced seasonal observations, and seasonal errors at prior time steps. \\
+	
+	The Seasonal Autoregressive Integrated Moving Average (SARIMA) method requires selecting hyperparameters for both the trend and seasonal elements of the series - so in total 7 parameters.\\
+	
+	Three trend elements:\\
+    p: Trend autoregression order\\
+    d: Trend difference order\\
+    q: Trend moving average order\\
+
+    Four seasonal elements:\\
+    P: Seasonal autoregressive order\\
+    D: Seasonal difference order\\
+    Q: Seasonal moving average order\\
+    m: Number of time steps for a single seasonal period\\
+
+	An approach to tune the parameters is called grid search which is a suite of model configurations and discovers which configurations work. However, grid search requires extensive computing power. The code for grid search includes 7 nested for-loops which is about 70,000 models to iterate and test. Because of this reason, the performance of our SARIMA model presented is not the best model possible.\\
+	
+	\includegraphics[scale = 0.2]{../plots/2018/zillow2018_SARIMA-model.png} \\
+	
+	\includegraphics[scale = 0.2]{../plots/2018/zillow2018_SARIMA_stats1.png} \\
+	
+	\includegraphics[scale = 0.2]{../plots/2018/zillow2018_SARIMA_stats2.png} \\
 	\subsection{Gated Recurrent Unit RNN}
 	
 	The Gated Recurrent unit model requires inputs to be reshaped in a 3 dimensional input, where a particular value of at time $t_k$ 
