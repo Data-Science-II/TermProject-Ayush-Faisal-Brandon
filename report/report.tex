@@ -96,10 +96,38 @@
 	
 	\includegraphics[scale = 0.5]{../plots/hmda_hist.png}
 	
+	The histograms are all very similarly shaped, and may be highly correlated. In particular the loan amount, population, and minority 
+	populations seem to have very similar skewed right distributions. However, the data we have access to is yearly in nature, and the 
+	variations in the Zillow data are monthly. For this reason we will only be using the Zillow data to for our time-series modeling. 
+
+	\includegraphics[scale=0.3]{../plots/zillow.png}
+	
+	As we can see from this sample of 
+	
 	\section{Modeling}
 	\subsection{Auto-Regressive Model}
 	\subsection{Seasonal Auto-Regressive Integrated Moving Average}
 	\subsection{Gated Recurrent Unit RNN}
+	
+	The Gated Recurrent unit model requires inputs to be reshaped in a 3 dimensional input, where a particular value of at time $t_k$ 
+	will be backed by m values ranging from $t_{k-m}$ to $t_{k-1}$ for every observation in the dataset. We used a GRU with 64 recurrent units 
+	and the data was reshaped to use a look-back of 8 months as we found that was ideal. 
+	
+	\includegraphics[scale = 0.5]{../plots/wentachee_1d_gru.png}
+	
+	Here were the results of the model: 
+	
+	\begin{itemize}
+		\item $R^2$ - 0.69
+		\item $RMSE$ - 9449.19
+		\item $MAPE$ - 0.022
+	\end{itemize}
+
+	The GRU overall performed very well, and if wasn't for the black swan event that was the pandemic, the model would have performed even 
+	better overall. We can see that the model is affected by the pandemic observation months after it happens because of the nature of the 
+	time series. We could get around this problem by using a shorter look-back, but this may make the model too sensitive to observations that 
+	come right before. 
+	
 	\subsection{Long Short-Term Memory}
 	
 	LSTM uses silimar shaped data as GRU, and maintains a control flow similar as an RNN. LSTM processes the data continuously as it grows 
@@ -108,8 +136,8 @@
 
 	Graphs
 	
-	\includegraphics[scale = 0.2]{../plots/wentachee_1d_lstm.png}
-	\includegraphics[scale = 0.2]{../plots/wentachee_lag.png}
+	\includegraphics[scale = 0.4]{../plots/wentachee_1d_lstm.png}
+	\includegraphics[scale = 0.4]{../plots/wentachee_lag.png}
 
 	\subsection{Results}
 
@@ -123,6 +151,10 @@
 	as well.
 	
 	\section{Results \& Conclusion}
-	\section{Recommendations of Study}
+	
+	Based on the results of our models, we believe that the best models in this case are the very simple auto-regressive models 
+	simply because of the high performance and the simplistic nature of the data. We were able to accurately predict the 
+	future housing prices solely on the basis of the previous values, and exogenous variables were not necessary.  
+
 	
 \end{document}
