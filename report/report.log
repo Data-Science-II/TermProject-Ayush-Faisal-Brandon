@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.9.27)  29 APR 2021 21:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.9.27)  29 APR 2021 23:41
 entering extended mode
 **./report.tex
 (report.tex
@@ -354,12 +354,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [1
 
 {C:/Users/Ayush/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
-<../plots/hmda_hist.png, id=98, 722.7pt x 722.7pt>
+<../plots/hmda_hist.png, id=93, 722.7pt x 722.7pt>
 File: ../plots/hmda_hist.png Graphic file (type png)
 <use ../plots/hmda_hist.png>
 Package pdftex.def Info: ../plots/hmda_hist.png  used on input line 97.
 (pdftex.def)             Requested size: 361.3491pt x 361.3491pt.
-<../plots/zillow.png, id=100, 1734.48pt x 578.16pt>
+<../plots/zillow.png, id=95, 1734.48pt x 578.16pt>
 File: ../plots/zillow.png Graphic file (type png)
 <use ../plots/zillow.png>
 Package pdftex.def Info: ../plots/zillow.png  used on input line 103.
@@ -369,78 +369,237 @@ Overfull \hbox (29.45802pt too wide) in paragraph at lines 103--104
 [][] 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
+
+ []
+
 [3 <../plots/hmda_hist.png> <../plots/zillow.png>]
-<../plots/wentachee_1d_gru.png, id=111, 644.6484pt x 364.9635pt>
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+
+ []
+
+<../plots/2018/zillow2018_lag.png, id=106, 521.7894pt x 346.896pt>
+File: ../plots/2018/zillow2018_lag.png Graphic file (type png)
+<use ../plots/2018/zillow2018_lag.png>
+Package pdftex.def Info: ../plots/2018/zillow2018_lag.png  used on input line 1
+19.
+(pdftex.def)             Requested size: 260.89406pt x 173.44757pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
+
+ []
+
+<../plots/2018/zillow2018_autocorrelation1.png, id=107, 519.6213pt x 346.896pt>
+
+File: ../plots/2018/zillow2018_autocorrelation1.png Graphic file (type png)
+<use ../plots/2018/zillow2018_autocorrelation1.png>
+Package pdftex.def Info: ../plots/2018/zillow2018_autocorrelation1.png  used on
+ input line 135.
+(pdftex.def)             Requested size: 259.81001pt x 173.44757pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+
+ []
+
+[4 <../plots/2018/zillow2018_lag.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+
+ []
+
+<../plots/2018/zillow2018_autocorrelation2.png, id=113, 519.6213pt x 346.896pt>
+
+File: ../plots/2018/zillow2018_autocorrelation2.png Graphic file (type png)
+<use ../plots/2018/zillow2018_autocorrelation2.png>
+Package pdftex.def Info: ../plots/2018/zillow2018_autocorrelation2.png  used on
+ input line 139.
+(pdftex.def)             Requested size: 103.92241pt x 69.37796pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
+
+ []
+
+<../plots/2018/zillow2018_AR-model-base20.png, id=114, 497.9403pt x 346.896pt>
+File: ../plots/2018/zillow2018_AR-model-base20.png Graphic file (type png)
+<use ../plots/2018/zillow2018_AR-model-base20.png>
+Package pdftex.def Info: ../plots/2018/zillow2018_AR-model-base20.png  used on 
+input line 143.
+(pdftex.def)             Requested size: 248.96954pt x 173.44757pt.
+<../plots/2018/zillow2018_AR-model-base365.png, id=115, 525.4029pt x 346.896pt>
+
+File: ../plots/2018/zillow2018_AR-model-base365.png Graphic file (type png)
+<use ../plots/2018/zillow2018_AR-model-base365.png>
+Package pdftex.def Info: ../plots/2018/zillow2018_AR-model-base365.png  used on
+ input line 153.
+(pdftex.def)             Requested size: 262.7008pt x 173.44757pt.
+[5 <../plots/2018/zillow2018_autocorrelation1.png> <../plots/2018/zillow2018_au
+tocorrelation2.png> <../plots/2018/zillow2018_AR-model-base20.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
+
+ []
+
+<../plots/2018/zillow2018_AR-model.png, id=123, 520.344pt x 346.896pt>
+File: ../plots/2018/zillow2018_AR-model.png Graphic file (type png)
+<use ../plots/2018/zillow2018_AR-model.png>
+Package pdftex.def Info: ../plots/2018/zillow2018_AR-model.png  used on input l
+ine 165.
+(pdftex.def)             Requested size: 260.17136pt x 173.44757pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--181
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--186
+
+ []
+
+[6 <../plots/2018/zillow2018_AR-model-base365.png> <../plots/2018/zillow2018_AR
+-model.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 187--192
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
+
+ []
+
+<../plots/2018/zillow2018_SARIMA-model.png, id=130, 1300.86pt x 578.16pt>
+File: ../plots/2018/zillow2018_SARIMA-model.png Graphic file (type png)
+<use ../plots/2018/zillow2018_SARIMA-model.png>
+Package pdftex.def Info: ../plots/2018/zillow2018_SARIMA-model.png  used on inp
+ut line 195.
+(pdftex.def)             Requested size: 260.16739pt x 115.62994pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--196
+
+ []
+
+<../plots/2018/zillow2018_SARIMA_stats1.png, id=131, 748.7975pt x 354.82562pt>
+File: ../plots/2018/zillow2018_SARIMA_stats1.png Graphic file (type png)
+<use ../plots/2018/zillow2018_SARIMA_stats1.png>
+Package pdftex.def Info: ../plots/2018/zillow2018_SARIMA_stats1.png  used on in
+put line 197.
+(pdftex.def)             Requested size: 149.75684pt x 70.96385pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--198
+
+ []
+
+<../plots/2018/zillow2018_SARIMA_stats2.png, id=132, 807.015pt x 373.89688pt>
+File: ../plots/2018/zillow2018_SARIMA_stats2.png Graphic file (type png)
+<use ../plots/2018/zillow2018_SARIMA_stats2.png>
+Package pdftex.def Info: ../plots/2018/zillow2018_SARIMA_stats2.png  used on in
+put line 199.
+(pdftex.def)             Requested size: 161.40013pt x 74.77805pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
+
+ []
+
+<../plots/wentachee_1d_gru.png, id=133, 644.6484pt x 364.9635pt>
 File: ../plots/wentachee_1d_gru.png Graphic file (type png)
 <use ../plots/wentachee_1d_gru.png>
-Package pdftex.def Info: ../plots/wentachee_1d_gru.png  used on input line 116.
+Package pdftex.def Info: ../plots/wentachee_1d_gru.png  used on input line 206.
 
 (pdftex.def)             Requested size: 322.32341pt x 182.4813pt.
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 1
-21.
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\omscmr.fd"
+[7 <../plots/2018/zillow2018_SARIMA-model.png> <../plots/2018/zillow2018_SARIMA
+_stats1.png> <../plots/2018/zillow2018_SARIMA_stats2.png> <../plots/wentachee_1
+d_gru.png>]
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 2
+11.
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 121.
-<../plots/wentachee_1d_lstm.png, id=112, 644.6484pt x 364.9635pt>
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 211.
+<../plots/wentachee_1d_lstm.png, id=147, 644.6484pt x 364.9635pt>
 File: ../plots/wentachee_1d_lstm.png Graphic file (type png)
 <use ../plots/wentachee_1d_lstm.png>
-Package pdftex.def Info: ../plots/wentachee_1d_lstm.png  used on input line 139
+Package pdftex.def Info: ../plots/wentachee_1d_lstm.png  used on input line 229
 .
 (pdftex.def)             Requested size: 257.8548pt x 145.9828pt.
-<../plots/wentachee_lag.png, id=113, 722.7pt x 722.7pt>
+<../plots/wentachee_lag.png, id=148, 722.7pt x 722.7pt>
 File: ../plots/wentachee_lag.png Graphic file (type png)
 <use ../plots/wentachee_lag.png>
-Package pdftex.def Info: ../plots/wentachee_lag.png  used on input line 140.
+Package pdftex.def Info: ../plots/wentachee_lag.png  used on input line 230.
 (pdftex.def)             Requested size: 289.07487pt x 289.07487pt.
 
-Overfull \hbox (58.26189pt too wide) in paragraph at lines 139--141
+Overfull \hbox (58.26189pt too wide) in paragraph at lines 229--231
 [][] [] 
  []
 
-[4 <../plots/wentachee_1d_gru.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 160.
- [5 <../plots/wentachee_1d_lstm.png> <../plots/wentachee_lag.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 160.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 250.
+[8 <../plots/wentachee_1d_lstm.png> <../plots/wentachee_lag.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 250.
  (report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 160.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 160.
-
-
-Package rerunfilecheck Warning: File `report.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `report.out':
-(rerunfilecheck)             Before: 9953F3DC486D89406DDB8730CC9F5C57;898
-(rerunfilecheck)             After:  EE29218D019BAE1C1C6AB9B1E9238909;838.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 160.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 250.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 250.
+Package rerunfilecheck Info: File `report.out' has not changed.
+(rerunfilecheck)             Checksum: EE29218D019BAE1C1C6AB9B1E9238909;838.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 250.
  ) 
 Here is how much of TeX's memory you used:
- 5864 strings out of 492484
- 88467 string characters out of 3130515
+ 5920 strings out of 492484
+ 90762 string characters out of 3130515
  183071 words of memory out of 3000000
- 10084 multiletter control sequences out of 15000+200000
+ 10128 multiletter control sequences out of 15000+200000
  7895 words of font info for 28 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,6n,28p,264b,388s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{section.7} has been referenced but does not exist
-, replaced by a fixed one
-
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Prog
-ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program File
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
-fonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb
-><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on report.pdf (5 pages, 416070 bytes).
+ 39i,7n,28p,499b,388s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on report.pdf (8 pages, 1582100 bytes).
 PDF statistics:
- 170 PDF objects out of 1000 (max. 8388607)
- 33 named destinations out of 1000 (max. 500000)
- 138 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 197 PDF objects out of 1000 (max. 8388607)
+ 35 named destinations out of 1000 (max. 500000)
+ 175 words of extra memory for PDF output out of 10000 (max. 10000000)
 

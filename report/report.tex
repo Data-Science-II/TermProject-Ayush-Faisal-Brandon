@@ -116,7 +116,7 @@
 	
 	Using the built-in plot in the Pandas library, we created a lag plot to visually check to see any auto-correlation in the time series data set. The figure below is the display of the lag plot. \\
 	
-	\includegraphics[scale = 0.2]{../plots/2018/zillow2018_lag.png} \\
+	\includegraphics[scale = 0.5]{../plots/2018/zillow2018_lag.png} \\
 	
 	Auto-correlation is similar to correlation as they both describe the relationship between two variables. Auto-correlation calculates the relationship for time-series observations with the previous time steps or as mentioned before, lags. The linear pattern exhibited in the lag plot shows that the data are strongly non-random and further suggests that an autoregressive model might be appropriate. Strong positive correlation (0.901) between the observation and the lag=1 value. \\
 	
@@ -126,13 +126,13 @@
      t-1 & 1.000 & 0.901 \\  
      t+1 & 0.901 & 1.000    
     \end{tabular}
-    \end{center} \\
+    \end{center} 
 	
 	By plotting the correlation coefficient for each lag variable, we can get a good idea of which lag variables may be good candidates in our predictive model and see how the relationship between the observation and its historic values changes over time. \\
 	
 	The auto-correlation plot below is a 2D plot showing the lag number along the x-axis and the correlation coefficient value between -1 and 1 on the y-axis. The plot also includes solid and dashed lines that indicate the 95\% and 99\% confidence interval for the correlation values. Correlation values above these lines are more significant than those below the line, providing a threshold or cutoff for selecting more relevant lag values. \\
 	
-	\includegraphics[scale = 0.2]{../plots/2018/zillow2018_autocorrelation1.png} \\
+	\includegraphics[scale = 0.5]{../plots/2018/zillow2018_autocorrelation1.png} \\
 	
 	The figure below is the same auto-correlation plot but with a limit of the lag variables evaluated to 31 for readability. The Confidence intervals can be seen as the shaded figures within the plot. By default the shaded figure cone is set to a 95\% confidence interval, suggesting that correlation values outside of this cone are very likely a correlation. \\
 	
@@ -140,7 +140,7 @@
 	
 	The figure below is the baseline AR models and you can observe that it performs worse as the prediction range increases. \\
 	
-	\includegraphics[scale = 0.2]{../plots/2018/zillow2018_AR-model-base20.png}
+	\includegraphics[scale = 0.5]{../plots/2018/zillow2018_AR-model-base20.png}
 	\begin{center}
     \begin{tabular}{ c }
      AR Model 20 days forecast stats \\ 
@@ -150,7 +150,7 @@
     \end{tabular}
     \end{center}
 	
-	\includegraphics[scale = 0.2]{../plots/2018/zillow2018_AR-model-base365.png}
+	\includegraphics[scale = 0.5]{../plots/2018/zillow2018_AR-model-base365.png}
 	\begin{center}
     \begin{tabular}{ c }
      AR Model 365 days forecast stats \\ 
@@ -162,7 +162,7 @@
 	
 	A method to tuning this model would be to use the learned coefficients and manually make predictions. This requires that the history of 29 prior observations be kept and that the coefficients to be retrieved from the model and used in the regression equation to come up with new forecasts. As you can see below the forecasts of model tuned is far more accurate and allows for a longer forecasting range. \\
 
-	\includegraphics[scale = 0.2]{../plots/2018/zillow2018_AR-model.png}
+	\includegraphics[scale = 0.5]{../plots/2018/zillow2018_AR-model.png}
 	\begin{center}
     \begin{tabular}{ c }
      AR Tuned Model 365 days forecast stats \\ 
